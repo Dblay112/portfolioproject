@@ -7,7 +7,7 @@ Key Features:
 
     Multiple Choice Questions: Students answer multiple-choice questions covering various subjects like history, literature, science, math, and current events.
     Dynamic Quiz: Questions are randomly selected from a defined pool, ensuring a different experience each time.
-    Scoring System: Tracks user answers and displays the final score upon completion.
+    Scoring System: Trac user answers and displays the final score upon completion.
     Feedback System: Provides feedback for each question, revealing the correct answer and explanation.
     Visual Appeal: Clean and user-friendly interface with clear instructions and engaging design.
 
@@ -23,7 +23,7 @@ Usage
     Students just need to visit the website and start right away. It is very simple to use.
     Answer each question by clicking on the appropriate option.
     After completing the quiz, view your score and feedback.
+    Students can retake the quiz with a different set of questions or the same questions to improve their knowledge base
 
 Author
-    Bright Selorm Djogatse - ALX(Holberton School)
-        Students can retake the quiz with a different set of questions or the same questions to improve their knowledge base
+    Bright Selorm Djogatse - ALX(Holberton School)       
